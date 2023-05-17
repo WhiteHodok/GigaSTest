@@ -4,6 +4,9 @@ At first I had the idea to write a script to check the speed of the Internet, bu
 
 
 The project used:
+
 -Python
+
 - Tkinter
+
 -speedtest-cli
